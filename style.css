@@ -1,0 +1,52 @@
+@charset "UTF-8";
+body {
+    font-size: 6rem;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    line-height: 10rem;
+}
+.count {
+    margin: 3rem 0;
+    font-weight: bold;
+    color: #333;
+}
+.wrap {
+    padding: 10rem 5rem;
+    margin-bottom: 5rem;
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+}
+.typed {
+    color: lightgreen;
+}
+.typo {
+    background-color: red;
+}
+.btn {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 2rem 5rem;
+    cursor: pointer;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #333;
+}
+.btn-red.btn-cubic {
+    border-bottom: 5px solid #333;
+}
+
+.btn-red.btn-cubic:hover {
+    margin-top: 3px;
+    border-bottom: 2px solid #333;
+}
+
+.btn-radius {
+    border-radius: 100vh;
+}
