@@ -12,7 +12,7 @@ const count = document.getElementById('count');
 
 //テキストを配列に格納
 const textLists = [
-    'JavaScript','HTML','CSS','HTML/CSS','PhotoShop','Illustrator',
+    'JavaScript','HTML','CSS','HTML/CSS','PhotoShop','illustrator',
     'Figma','WordPress','Visual Studio Code','DreamWeaver','PHP',
     'Laravel','CakePHP','Symphony','Java','Ruby','Ruby on Rails',
     'Python','GO','Kotlin','Swift','C#','C++','Google Chrome','R',
