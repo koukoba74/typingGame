@@ -47,8 +47,8 @@ const textLists = [
     'use strict;','git checkout -b new_branch','git merge new_branch',
     'git branch -a','git log','git init','reset.css','Model View Controller',
     'MVC','MVP','Minimum Viable Product','compact()','@keyframes',
-    'setTimeout()','`${score}pointです!`','"こんにちは{$name}さん"',"true false",
-    'テンプレートリテラル','git remote add origin','git branch -M main',
+    'setTimeout()','`${score}pointです!`','"Hello!{$name}"',"true false",
+    'git remote add origin','git branch -M main','background',
     'git remote -v','git push -u origin main'
 ]
 
